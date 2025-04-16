@@ -23,7 +23,7 @@ This collection of notes provides a comprehensive guide to understanding Python,
 
 4. **[Data Structures](./04-data-structures.md)** 🏗️
    - Lists, tuples, and sets
-   - Dictionaries
+   - Dictionaries [dict](https://github.com/AlekOmOm/notes_Python/blob/main/04-data-structures.md#dictionaries)
    - Comprehensions
 
 5. **[Functions](./05-functions.md)** ⚙️
