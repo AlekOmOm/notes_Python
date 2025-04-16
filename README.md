@@ -22,7 +22,15 @@ This collection of notes provides a comprehensive guide to understanding Python,
    - Control flow tools
 
 4. **[Data Structures](./04-data-structures.md)** 🏗️
-   - Lists, tuples, sets and [dict](https://github.com/AlekOmOm/notes_Python/blob/main/04-data-structures.md#dictionaries)
+   - Lists, tuples, sets, and [dict](https://github.com/AlekOmOm/notes_Python/blob/main/04-data-structures.md#dictionaries)
+   - Comprehensions
+   - Overview of Python's Built-in Data Structures
+      - [Lists](https://github.com/AlekOmOm/notes_Python/blob/main/04-data-structures.md#lists)
+      - [Tuples](https://github.com/AlekOmOm/notes_Python/blob/main/04-data-structures.md#tuples)
+      - [Sets](https://github.com/AlekOmOm/notes_Python/blob/main/04-data-structures.md#sets)
+      - [Dictionaries](https://github.com/AlekOmOm/notes_Python/blob/main/04-data-structures.md#dictionaries)
+   - Collections Module
+   - Choosing the Right Data Structure
    - Comprehensions
 
 5. **[Functions](./05-functions.md)** ⚙️
