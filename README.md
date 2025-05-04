@@ -83,6 +83,10 @@ This collection of notes provides a comprehensive guide to understanding Python,
     - Interactive web app with Streamlit
     - Image processing basics
 
+15. **[Project Example: Pandas Candlestick Analysis](./15-ex-pandas-Candlestick-Analysis-Dashboard.md)** 📈
+    - Financial data analysis with Pandas
+    - Time-series data processing
+    - Interactive financial dashboards
 ---
 
 _(These notes are designed for beginners to intermediate Python developers and assume basic programming knowledge. Each topic builds on the previous ones, creating a comprehensive learning journey.)_
