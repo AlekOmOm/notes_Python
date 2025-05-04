@@ -78,6 +78,11 @@ This collection of notes provides a comprehensive guide to understanding Python,
     - Data manipulation
     - Visualization basics
 
+14. **[Project Example: NumPy Image Filter App](./14-ex-Numpy-Streamlit-Image-Filter-App.md)** 🖼️
+    - Practical application of NumPy
+    - Interactive web app with Streamlit
+    - Image processing basics
+
 ---
 
 _(These notes are designed for beginners to intermediate Python developers and assume basic programming knowledge. Each topic builds on the previous ones, creating a comprehensive learning journey.)_
