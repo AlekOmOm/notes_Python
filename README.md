@@ -87,6 +87,16 @@ This collection of notes provides a comprehensive guide to understanding Python,
     - Financial data analysis with Pandas
     - Time-series data processing
     - Interactive financial dashboards
+    
+16. **[Web Development with Django](./16-web-development-django.md)** 🌐
+    - Django framework fundamentals
+    - Building web applications
+    - Database integration with ORM
+
+17. **[API Development with FastAPI](./17-api-development-fastapi.md)** 🚄
+    - RESTful API design principles
+    - FastAPI implementation
+    - API documentation and testing
 ---
 
 _(These notes are designed for beginners to intermediate Python developers and assume basic programming knowledge. Each topic builds on the previous ones, creating a comprehensive learning journey.)_
