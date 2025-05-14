@@ -1,6 +1,6 @@
 # 15. Project Example: Pandas Candlestick Analysis Dashboard 📈
 
-[<- Back: Project Example: NumPy Image Filter App](./14-ex-Numpy-Streamlit-Image-Filter-App.md) | [Next: (Conclusion or Next Steps) ->]
+[<- Back: Project Example: NumPy Image Filter App](./14-ex-Numpy-Streamlit-Image-Filter-App.md) | [Next: Web Development with Django ->](./16-web-development-django.md)
 
 ## Table of Contents
 
@@ -122,7 +122,7 @@ def fetch_data(selected_date):
                  # Assume timestamp is in seconds
                  df['timestamp'] = pd.to_datetime(df['timestamp'], unit='s')
              except (ValueError, TypeError):
-                  # Assume timestamp is ISO format string
+                 # Assume timestamp is ISO format string
                  df['timestamp'] = pd.to_datetime(df['timestamp'])
 
         # 2. Convert OHLCV columns to numeric, coercing errors
@@ -261,7 +261,6 @@ elif df_data is None:
     st.info("Enter API details and select a date to fetch data.")
 else: # df_data is empty after processing
     st.warning(f"No valid data could be processed for {selected_date.strftime('%Y-%m-%d')}.")
-
 ```
 
 ## Running the App
@@ -319,4 +318,4 @@ else: # df_data is empty after processing
 
 ---
 
-[<- Back: Project Example: NumPy Image Filter App](./14-ex-Numpy-Streamlit-Image-Filter-App.md) | [Next: (Conclusion or Next Steps) ->]
+[<- Back: Project Example: NumPy Image Filter App](./14-ex-Numpy-Streamlit-Image-Filter-App.md) | [Next: Web Development with Django ->](./16-web-development-django.md)
