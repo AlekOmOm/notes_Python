@@ -88,15 +88,22 @@ This collection of notes provides a comprehensive guide to understanding Python,
     - Time-series data processing
     - Interactive financial dashboards
     
-16. **[Web Development with Django](./16-web-development-django.md)** 🌐
-    - Django framework fundamentals
-    - Building web applications
-    - Database integration with ORM
+16. **[Flask Web Framework](./16-flask.md)** 🌐
+    - Lightweight web application development
+    - Routing and request handling
+    - Templates and application structure
+    - Sub-topics:
+      - [Flask Beginner](./16a-flask-beginner.md)
+      - [Flask Intermediate](./16b-flask-intermediate.md)
 
-17. **[API Development with FastAPI](./17-api-development-fastapi.md)** 🚄
-    - RESTful API design principles
-    - FastAPI implementation
-    - API documentation and testing
+17. **[Flask-SocketIO: Real-time Web Applications](./17-flask-socketio.md)** 🔌
+    - WebSocket integration with Flask
+    - Real-time bidirectional communication
+    - Building interactive dashboards
+    - Sub-topics:
+      - [Core Application Structure](./17a-core-application.md)
+      - [Data Processing and Visualization](./17b-data-processing.md)
+      - [Core Terms and Concepts](./17c-core-terms.md)
 ---
 
 _(These notes are designed for beginners to intermediate Python developers and assume basic programming knowledge. Each topic builds on the previous ones, creating a comprehensive learning journey.)_
