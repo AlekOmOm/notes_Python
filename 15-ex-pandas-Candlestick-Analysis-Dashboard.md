@@ -1,6 +1,6 @@
 # 15. Project Example: Pandas Candlestick Analysis Dashboard 📈
 
-[<- Back: Project Example: NumPy Image Filter App](./14-ex-Numpy-Streamlit-Image-Filter-App.md) | [Next: Web Development with Django ->](./16-web-development-django.md)
+[<- Back: Project Example: NumPy Image Filter App](./14-ex-Numpy-Streamlit-Image-Filter-App.md) | [Next: Flask Web Framework ->](./16-flask.md)
 
 ## Table of Contents
 
@@ -318,4 +318,4 @@ else: # df_data is empty after processing
 
 ---
 
-[<- Back: Project Example: NumPy Image Filter App](./14-ex-Numpy-Streamlit-Image-Filter-App.md) | [Next: Web Development with Django ->](./16-web-development-django.md)
+[<- Back: Project Example: NumPy Image Filter App](./14-ex-Numpy-Streamlit-Image-Filter-App.md) | [Next: Flask Web Framework ->](./16-flask.md)
